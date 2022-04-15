@@ -1,2 +1,2 @@
-# 1lineargradient
-link - https://abhyuday911.github.io/1lineargradient/
+# 2lineargradient
+link - https://abhyuday911.github.io/2lineargradient/
